@@ -14,7 +14,7 @@ setuptools.setup(
     install_requires=get_requirements(),
     include_package_data=True,
     python_requires='>=3.8',
-    url="https://github.com/GuoBioinfoLab/STCAT",
+    url="https://github.com/kirtiest/STCAT",
     description="An automated T cell type annotation tool for scRNA-seq datasets.",
     long_description=long_description,
     long_description_content_type="text/markdown",
